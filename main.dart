@@ -36,7 +36,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text('eiei'),
         ),
-        body: Text('home kuy'),
+        body: Text('home'),
       )
       );
    
